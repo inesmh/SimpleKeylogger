@@ -16,7 +16,7 @@ First install pynput  <br />
 <br />
 py -m pip install pynput <br />
 or <br />
-pip install pynput![image](https://github.com/user-attachments/assets/a01801d0-28df-4a75-ab29-dd327a4f5af8) <br />
+pip install pynput <br />
 <br />
 Download and execute. Most antivirus won't allow to execute, make sure if so to allow it.
 
