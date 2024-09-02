@@ -1,7 +1,7 @@
 <h1>Simple Keylogger</h1>
 
 <h3>Objective</h3>
-Program a simple keylogger. Just for educational purpouses.
+Program a simple keylogger. Just for educational purposes.
 <br /> <br />
 <h3>Skills Learned</h3>
 ● Keylogger <br />
